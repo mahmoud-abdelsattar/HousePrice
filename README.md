@@ -1,6 +1,6 @@
 # HousePrice
 # Model Evaluation and Validation
-## Project: Predicting Boston Housing Prices
+## Project: Predicting Housing Prices
 
 ### Install
 
@@ -15,25 +15,25 @@ You will also need to have software installed to run and execute a [Jupyter Note
 
 ### Code
 
-Template code is provided in the `boston_housing.ipynb` notebook file. You will also be required to use the `housing.csv` dataset file to complete your work , you will see implemented functionality requested to successfully complete the project.
+Template code is provided in the `Houses_Explore.ipynb` notebook file. You will also be required to use the `housing.csv` dataset file to complete your work , you will see implemented functionality requested to successfully complete the project.
 
 ### Run
 
 In a terminal or command window, navigate to the top-level project directory (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook boston_housing.ipynb
+ipython notebook Houses_Explore.ipynb
 ```  
 or
 ```bash
-jupyter notebook boston_housing.ipynb
+jupyter notebook Houses_Explore.ipynb
 ```
 
 This will open the Jupyter Notebook software and project file in your browser.
 
 ### Data
 
-The modified Boston housing dataset in the notebook consists of clean data that required for the prediction process.
+The modified housing dataset in the notebook consists of clean data that required for the prediction process.
 
 **Features**
 1. `sqft_living`: sqaure feet of the livivng room.
